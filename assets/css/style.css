@@ -376,7 +376,7 @@ footer .cv-pdf i:hover{
 
 button[type="submit"] {
     margin-top: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 65px;
     background-color: #e84610;
     color: #fafafa;
 }
@@ -385,7 +385,7 @@ button[type="submit"] {
 
 @media(min-width: 992px) {
     .section-column {
-        padding: 0 30px 30px;
+        padding: 0 15px 80px;
         float: none;
         display: table-cell;
     }
